@@ -53,7 +53,7 @@ In particular note that references to "red" and "RED" should be changed to anoth
 
 You should also change the USERNAME to your chosen username.
 
-You will also need to provide a font file, and place that file in the same directory as the main **newsfeeds_inky.py** code.
+You will also need to provide a font file, and place that file in the same directory as the main **newsfeeds_inky.py** code. The code above references **Arial.ttf**, but note this is a copyright font, and I cannot redistribute it here. Y
 
 Finally, amend the RSS feeds to whichever feeds you want to monitor.
 
